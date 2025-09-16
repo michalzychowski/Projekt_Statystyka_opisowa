@@ -27,8 +27,11 @@ Do uruchomienia projektu potrzebne są:
 
 ## Uwagi
 Projekt został wykonany zgodnie z instrukcją zawartą w pliku [zadanie_projektowe.pdf](documentation/zadanie_projektowe.pdf) w folderze documentation.
+
 Analizowane dane znajdują się w pliku Excela (Results.xlsx). W celu uproszczenia uzyskania danych, zostały one wygenerowane przez prosty kod w języku Java.
+
 Kod można uruchomić także lokalnie w RStudio po zainstalowaniu wymaganych pakietów.
+
 Projekt możemy również uruchomić w Jupyter Notebook po zainstalowaniu kernel dla R.
 
 ## Licencja
