@@ -21,7 +21,7 @@ ipython_config.py
 .RData
 .Rproj.user/
 
-# For fata generator
+# For data generator
 # Java
 *.class
 *.jar
