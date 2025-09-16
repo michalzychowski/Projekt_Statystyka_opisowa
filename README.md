@@ -1,4 +1,4 @@
-# Projekt_Statystyka_opisowa
+# Projekt - Statystyka opisowa
 ## Opis
 Projekt na przedmiot "Statystyka opisowa" na II roku studiów inżynierskich na kierunku Informatyka i ekonometria na UR. Projekt dotyczy analizy danych z wykorzystaniem metod statystyki opisowej w języku R. W notatniku pokazano m.in. przygotowanie danych, obliczenia podstawowych miar (średnia, mediana, wariancja, odchylenie standardowe), wizualizacje oraz interpretacje wyników. Celem projektu jest praktyczne wykorzystanie statystyki opisowej do analizy zbioru danych i przedstawienie wyników w czytelnej formie.
 
